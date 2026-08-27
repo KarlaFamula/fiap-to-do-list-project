@@ -152,11 +152,7 @@ Tela de edição (`Editar Tarefa`) aberta a partir do clique na tarefa já cadas
 
 Lista exibindo duas tarefas cadastradas, cada uma com sua data e horário.
 
-### Tarefa marcada como concluída
 
-![Tarefa concluída](docs/evidencias/08-tarefa-concluida.jpg)
-
-Tarefa "festa de karla" marcada como concluída.
 
 
 
