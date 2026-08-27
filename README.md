@@ -156,7 +156,7 @@ Lista exibindo duas tarefas cadastradas, cada uma com sua data e horário.
 
 ![Tarefa concluída](docs/evidencias/08-tarefa-concluida.jpg)
 
-Tarefa "festa de karla" marcada como concluída — o checkbox aparece marcado e o título é exibido com risco (`TextDecoration.LineThrough`), refletindo o estado `concluida = true`.
+Tarefa "festa de karla" marcada como concluída.
 
 
 
